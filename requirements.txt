@@ -2,3 +2,5 @@ langchain
 openai
 cohere
 huggingface_hub
+python-dotenv
+streamlit
